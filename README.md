@@ -1,2 +1,2 @@
-# Mealplanner
+# smartmealplanner
 SmartMeal Planner
